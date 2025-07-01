@@ -1,6 +1,15 @@
-<pre> ```bash # Folder Structure file_directry/ ├── models/ │ └── text_classifire1.h5 ├── utils/ │ └── preprocessor.py ├── .gitignore ├── main.py ├── README.md └── requirements.txt ``` </pre>
+<pre> ```bash # Folder Structure 
+file_directry/ 
+├── models/ 
+│ └── text_classifire1.h5 
+├── utils/ 
+│ └── preprocessor.py 
+├── .gitignore 
+├── main.py 
+├── README.md 
+└── requirements.txt ``` </pre>
 
-# step 1 ----------> create folder structure as above
+# step 1 ----------> create a folder called "models" folder and put the model inside it.
 
 # step 2-----------> create a virtual environment
    run this command  "python -m venv venv"
