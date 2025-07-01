@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Data
+*.h5
+*.ckpt
+*.pb
+*.log
+*.csv
+*.db
+.DS_Store
+
+# Colab/Drive
+*.ipynb
+drive/
