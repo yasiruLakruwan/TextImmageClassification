@@ -1,21 +1,4 @@
-# folder structure
-
-file directry
-|
-|--models
-|   |
-|   |--text_classifire1.h5
-|--utils
-|   |
-|   |--preprocessor.py
-|
-|--.gitignore
-|
-|--main.py
-|
-|--README.md
-|
-|--requirements.txt
+<pre> ```bash # Folder Structure file_directry/ ├── models/ │ └── text_classifire1.h5 ├── utils/ │ └── preprocessor.py ├── .gitignore ├── main.py ├── README.md └── requirements.txt ``` </pre>
 
 # step 1 ----------> create folder structure as above
 
